@@ -1,0 +1,8 @@
+{
+    "VoilaConfiguration": {
+        "preheat_kernel": true
+    },
+    "VoilaKernelManager": {
+        "pool_size": 5
+    }
+}
