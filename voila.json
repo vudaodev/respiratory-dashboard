@@ -1,8 +1,5 @@
 {
     "VoilaConfiguration": {
-        "preheat_kernel": true
-    },
-    "VoilaKernelManager": {
-        "pool_size": 5
+        "progressive_rendering": true
     }
 }
