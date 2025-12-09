@@ -1,12 +1,4 @@
-Python == 3.14.0
 matplotlib
 pandas
 voila
-ipywidgets == 8.1.5
-pandas== 2.2.3
-numpy == 2.1.3
-matplotlib == 3.10.0
-requests == 2.32.3
-json == 0.9.25
-IPython
-time 
+
