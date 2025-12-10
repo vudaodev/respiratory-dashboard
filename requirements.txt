@@ -1,6 +1,8 @@
+pandas>=2.1.0
 matplotlib
-pandas
-voila
-ipywidgets
+ipywidgets>=8.0.0
+voila>=0.5.0
+jupyterlab>=4.0.0
+uk_covid19
 numpy
 requests
