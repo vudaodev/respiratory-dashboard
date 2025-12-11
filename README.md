@@ -19,7 +19,7 @@ Motivated by the Covid-19 pandemic, this interactive dashboard allows users to g
 -   **Core:** Python 3, Jupyter Notebook
 -   **Dashboarding:** [Voila](https://voila.readthedocs.io/) (renders notebook as a web app)
 -   **Data Manipulation:** Pandas, JSON
--   **Visualisation:** Matplotlib / Plotly
+-   **Visualisation:** Matplotlib
 -   **Interactivity:** ipywidgets
 -   **Data Source:** [UKHSA API](https://ukhsa-dashboard.data.gov.uk/)
 
