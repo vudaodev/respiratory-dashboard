@@ -49,7 +49,7 @@ Click the **Binder** badge below to launch the interactive dashboard directly in
     ```
 
 3.  **Create a virtual environment to isolate your dependencies**
-    Mac
+    <br>Mac
 
     ```bash
     python3 -m venv venv
